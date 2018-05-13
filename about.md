@@ -16,4 +16,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
-<a href="apple.com" class=editable>wierd</a>
+<a href="apple.com" class="editable">wierd</a>
