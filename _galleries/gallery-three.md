@@ -8,4 +8,4 @@ title: Gallery Three
 * Three same again
 * Three yup u guessed it
 * Three picture
-* &nbsp;
+* ![](/files/content/gallery-three/backsoon.png)
