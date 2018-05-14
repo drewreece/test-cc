@@ -16,7 +16,7 @@
 title: Site title
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site description isn't very interesting.
+  This site description isn't very interesting.1
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -57,3 +57,11 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+_options:
+  image: # front matter feild
+    uploads_dir: "files/images/:title"
+  content: # content & block editor regions
+    uploads_dir: "files/content/:title"
+    
+uploads_dir: "files/:title"
