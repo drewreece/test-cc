@@ -1,0 +1,24 @@
+---
+layout: default
+title: Galleries
+---
+
+<div class="galleries">
+
+  <h1 class="page-heading">{{ page.title }}</h1>
+
+  <ul class="post-list">
+    {% for gallery in site.galleries  %}
+    <h2>
+      <a class="post-link" href="{{ gallery.url | prepend: site.baseurl }}">{{ gallery.title }}</a>
+    </h2>
+    
+    {% comment %}
+    {{ gallery.content | truncatehtml: 7 }}
+    {% endcomment %}
+
+    {{ gallery.documents}}
+        {% endfor %}
+  </ul>
+
+</div>

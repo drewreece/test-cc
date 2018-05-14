@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Site title
+#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site description isn't very interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,20 @@ plugins:
 #  - jekyll-sitemap
 #  - jekyll-responsive-image
 
+
+collections:
+  galleries:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "galleries"
+      baseurl: "/galleries"
+      type: "galleries"
+      permalink: "/galleries/index.html"
+    values:
+      layout: "pages"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
