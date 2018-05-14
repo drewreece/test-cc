@@ -1,5 +1,6 @@
 ---
 permalink: /
 layout: home
-title: My homepage title
+title: home
 ---
+
