@@ -8,4 +8,4 @@ title: Gallery Three
 * Three same again
 * Three yup u guessed it
 * Three picture
-* ![](/files/content/gallery-three/backsoon.png)
+* ![Desctipptin](/files/content/gallery-three/backsoon.png "my image title")
