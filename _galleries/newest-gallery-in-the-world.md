@@ -2,4 +2,6 @@
 layout: default
 ---
 
-<br>![](0.218564392067492){: .cms-image-placeholder}
+&nbsp;
+
+* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWNYtWrVfwAG/gL+W+NRyAAAAABJRU5ErkJggg==){: .cms-image-placeholder}
