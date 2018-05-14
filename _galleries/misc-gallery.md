@@ -7,9 +7,7 @@ title: Misc gallery
 * yup u guessed it
 * picture
 * picture
-* picture
-* picture
-* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWNYtWrVfwAG/gL+W+NRyAAAAABJRU5ErkJggg==){: .cms-image-placeholder}
+* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWNYtWrVfwAG/gL+W+NRyAAAAABJRU5ErkJggg==){: .cms-image-placeholder}hvghvhj
 * an images
 * picture
 * picture
