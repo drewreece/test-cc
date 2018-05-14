@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Great gallery
+title: Greater gallery
 ---
 
 * an book
