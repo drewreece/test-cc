@@ -44,7 +44,7 @@ defaults:
       type: "galleries"
       permalink: "/galleries/index.html"
     values:
-      layout: "pages"
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
